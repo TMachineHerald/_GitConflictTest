@@ -1,0 +1,18 @@
+{
+    "name": "com.puffer.vibratormanager",
+    "author": "Warren",
+    "displayName": "_Puffer VibratorManager",
+    "version": "1.0.2",
+    "unity": "2018.3",
+    "description": "震动控制插件,查看Debug需要在ScriptingDefineSymbols输入PUFFER_DEBUG 文档 https://docs.qq.com/doc/DZEFCZ1pId2pnUUNH",
+    "category": "Unity",
+    "keywords": 
+    [
+        "puffer",
+        "vibrator",
+        "sound"
+    ],
+    "dependencies": 
+    {
+    }
+}

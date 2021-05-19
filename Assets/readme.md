@@ -1,0 +1,1 @@
+_GeneralSceneMode 是场景中固定存在的GO,一般不动

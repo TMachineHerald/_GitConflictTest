@@ -1,0 +1,14 @@
+{
+    "name": "VibratorManager.Runtime",
+    "references": [
+        "GUID:c9bd878ee2b7ca245bb634e5259d72e0"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
